@@ -3,7 +3,8 @@ ara desarrollar este minijuego se utilizaron conocimientos de programación orie
 
 Otro conocimiento importante fue el manejo de la consola mediante código. Se aprendió a posicionar cada símbolo en el lugar deseado, a agregar color para distinguir las casillas encendidas, apagadas y el cursor, y a dibujar el menú y el título con arte ASCII.
 
-<img width="464" height="287" alt="image" src="https://github.com/user-attachments/assets/ccfb571f-88d0-412d-bc1a-4c23d74e6c20" />
+<img width="800" height="411" alt="Captura de pantalla 2026-10-10 160918" src="https://github.com/user-attachments/assets/785a8b54-40e7-4f30-8360-fda05839da0f" />
+
 
 Dificultades encontradas
 
